@@ -1,2 +1,2 @@
 # ch1_2.py
-print("Hello! Python")   # 列印字串
+print("Hello! Python!")   # 列印字串
