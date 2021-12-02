@@ -3,4 +3,4 @@
 作者:洪錦魁
 使用三個雙引號當作註解
 """
-print("Hello! Python")   # 列印字串
+print("Hello! Python & Github!")   # 列印字串
